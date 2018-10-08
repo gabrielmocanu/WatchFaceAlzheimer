@@ -1,0 +1,76 @@
+.background {
+  viewport-fill: "#0f0e28";
+}
+
+#Clock {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 35%;
+  fill: white;
+}
+
+
+#DateTime {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 62%;
+  y: 12%;
+  fill: white;
+}
+
+#Name {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%;
+  fill: "#f97721";
+}
+
+#DayName {
+    font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 27%;
+  y: 12%;
+  fill: white;
+}
+
+#Emergency {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 75%;
+  fill: white;
+}
+
+#Emergency2 {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 70%;
+  fill: white;
+}
+
+#Calling_Alert {
+  
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%;
+  fill: white;
+}
+

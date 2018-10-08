@@ -1,0 +1,23 @@
+<svg class="background">
+  
+  <svg id="faceClock">
+       
+    <text id="DateTime" />
+    <text id="DayName" />
+    <text id="Clock" />
+    <text id="Name" />
+    <rect x="0%" y="60%" width="100%" height="100%" fill= "#f97721" />
+    <text id="Emergency" />
+    <text y="$" id="Emergency2" />
+    <rect id="myButton" x="0%" y="70%" width="100%" height="30%" pointer-events="visible" opacity = "0" />
+    
+  </svg>
+    
+    <image id="Pils_Alert" x="0%" y="0%" width="100%" height="100%" href="pill.png" />
+    <image id="Box_Alert" x="0%" y="0%" width="100%" height="100%" href="pill_box.png" />
+  
+    <svg id="callingAlert">
+      <text id="Calling_Alert"/>
+    </svg>
+      
+</svg>
